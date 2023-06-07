@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Book-Movie-Ticket/static/css/main.1a976b4f.css",
+    "main.js": "/Book-Movie-Ticket/static/js/main.42c7ffa3.js",
+    "static/js/787.d4b321b3.chunk.js": "/Book-Movie-Ticket/static/js/787.d4b321b3.chunk.js",
+    "static/media/navlogo.png": "/Book-Movie-Ticket/static/media/navlogo.1700363c5f889a7e4ada.png",
+    "index.html": "/Book-Movie-Ticket/index.html",
+    "main.1a976b4f.css.map": "/Book-Movie-Ticket/static/css/main.1a976b4f.css.map",
+    "main.42c7ffa3.js.map": "/Book-Movie-Ticket/static/js/main.42c7ffa3.js.map",
+    "787.d4b321b3.chunk.js.map": "/Book-Movie-Ticket/static/js/787.d4b321b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a976b4f.css",
+    "static/js/main.42c7ffa3.js"
+  ]
+}
